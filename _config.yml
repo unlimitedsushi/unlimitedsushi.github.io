@@ -1,0 +1,18 @@
+title: Serena Lee # your name (or website title) here
+# logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Welcome to my Portfolio! 
+  <br><br>
+  I'm an aspiring Data Analyst/Engineer with a bachelor's degree in Data Science from NYU Shanghai. Previous data analytics internship experience at Pfizer and Playbook Sports. Looking for opportunities in NYC/Seattle Area.
+  <br><br>
+  My hobbies include singing, board games, crafts. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/">View my LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+colors:
+  crimson: '#900C3F'
