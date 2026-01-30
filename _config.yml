@@ -14,7 +14,6 @@ description: > # your text below (remove <br> elements if you don't need line br
 #plugins:
 #- jekyll-remote-theme
 theme: jekyll-theme-minimal
-markdown: kramdown
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 colors:
   crimson: '#900C3F'
