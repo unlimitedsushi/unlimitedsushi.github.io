@@ -4,6 +4,8 @@ title: home
 ---
 {{ site.title }}
 
+{{ site.theme }}
+
 
 ## Data Analytics Projects
 
